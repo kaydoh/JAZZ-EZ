@@ -1,2 +1,2 @@
 # JAZZ-EZ
-Jasint shared standard repositories
+Jazz-EZ shared standard repositories
